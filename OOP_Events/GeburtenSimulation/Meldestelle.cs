@@ -31,7 +31,7 @@ namespace GeburtenSimulation
             for (DateTime dt = start; dt < start.AddYears(1); dt = dt.AddMinutes(5)) {
                 GeburtenAnfragen();
                 Console.WriteLine("Anfrage an die Stationen");
-                System.Threading.Thread.Sleep(500);
+                System.Threading.Thread.Sleep(5000);
             }
             Console.WriteLine("Jahr ist rum!");
         }

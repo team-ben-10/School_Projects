@@ -5,3 +5,10 @@ C:\Users\Maximilian\Documents\OOP_Events\GeburtenSimulation\obj\Debug\GeburtenSi
 C:\Users\Maximilian\Documents\OOP_Events\GeburtenSimulation\obj\Debug\GeburtenSimulation.csproj.CoreCompileInputs.cache
 C:\Users\Maximilian\Documents\OOP_Events\GeburtenSimulation\obj\Debug\GeburtenSimulation.exe
 C:\Users\Maximilian\Documents\OOP_Events\GeburtenSimulation\obj\Debug\GeburtenSimulation.pdb
+C:\Users\Maximilian\Documents\GitHub\School_Projects\OOP_Events\GeburtenSimulation\bin\Debug\GeburtenSimulation.exe.config
+C:\Users\Maximilian\Documents\GitHub\School_Projects\OOP_Events\GeburtenSimulation\bin\Debug\GeburtenSimulation.exe
+C:\Users\Maximilian\Documents\GitHub\School_Projects\OOP_Events\GeburtenSimulation\bin\Debug\GeburtenSimulation.pdb
+C:\Users\Maximilian\Documents\GitHub\School_Projects\OOP_Events\GeburtenSimulation\obj\Debug\GeburtenSimulation.csprojAssemblyReference.cache
+C:\Users\Maximilian\Documents\GitHub\School_Projects\OOP_Events\GeburtenSimulation\obj\Debug\GeburtenSimulation.csproj.CoreCompileInputs.cache
+C:\Users\Maximilian\Documents\GitHub\School_Projects\OOP_Events\GeburtenSimulation\obj\Debug\GeburtenSimulation.exe
+C:\Users\Maximilian\Documents\GitHub\School_Projects\OOP_Events\GeburtenSimulation\obj\Debug\GeburtenSimulation.pdb
