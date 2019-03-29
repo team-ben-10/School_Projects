@@ -1,0 +1,6 @@
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\Programme_3Jhg\ThreadDemo4_ThreadMethod_WithParams\bin\Debug\ThreadDemo4_ThreadMethod_WithParams.exe.config
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\Programme_3Jhg\ThreadDemo4_ThreadMethod_WithParams\bin\Debug\ThreadDemo4_ThreadMethod_WithParams.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\Programme_3Jhg\ThreadDemo4_ThreadMethod_WithParams\bin\Debug\ThreadDemo4_ThreadMethod_WithParams.pdb
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\Programme_3Jhg\ThreadDemo4_ThreadMethod_WithParams\obj\Debug\ThreadDemo4_ThreadMethod_WithParams.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\Programme_3Jhg\ThreadDemo4_ThreadMethod_WithParams\obj\Debug\ThreadDemo4_ThreadMethod_WithParams.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\Programme_3Jhg\ThreadDemo4_ThreadMethod_WithParams\obj\Debug\ThreadDemo4_ThreadMethod_WithParams.pdb
