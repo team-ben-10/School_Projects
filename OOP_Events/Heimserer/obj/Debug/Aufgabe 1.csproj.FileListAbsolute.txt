@@ -5,3 +5,10 @@ C:\Users\Thomas\source\repos\Events\Aufgabe 1\obj\Debug\Aufgabe 1.csprojAssembly
 C:\Users\Thomas\source\repos\Events\Aufgabe 1\obj\Debug\Aufgabe 1.csproj.CoreCompileInputs.cache
 C:\Users\Thomas\source\repos\Events\Aufgabe 1\obj\Debug\Aufgabe 1.exe
 C:\Users\Thomas\source\repos\Events\Aufgabe 1\obj\Debug\Aufgabe 1.pdb
+C:\Users\Eric\Documents\EigenProgrammieren\GitRepository_Team10\School_Projects\OOP_Events\Heimserer\bin\Debug\Aufgabe 1.exe.config
+C:\Users\Eric\Documents\EigenProgrammieren\GitRepository_Team10\School_Projects\OOP_Events\Heimserer\bin\Debug\Aufgabe 1.exe
+C:\Users\Eric\Documents\EigenProgrammieren\GitRepository_Team10\School_Projects\OOP_Events\Heimserer\bin\Debug\Aufgabe 1.pdb
+C:\Users\Eric\Documents\EigenProgrammieren\GitRepository_Team10\School_Projects\OOP_Events\Heimserer\obj\Debug\Aufgabe 1.csprojAssemblyReference.cache
+C:\Users\Eric\Documents\EigenProgrammieren\GitRepository_Team10\School_Projects\OOP_Events\Heimserer\obj\Debug\Aufgabe 1.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Documents\EigenProgrammieren\GitRepository_Team10\School_Projects\OOP_Events\Heimserer\obj\Debug\Aufgabe 1.exe
+C:\Users\Eric\Documents\EigenProgrammieren\GitRepository_Team10\School_Projects\OOP_Events\Heimserer\obj\Debug\Aufgabe 1.pdb

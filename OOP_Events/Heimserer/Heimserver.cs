@@ -23,7 +23,7 @@ namespace Aufgabe_1
         }
         public void Start()
         {
-            request();
+            request.BeginInvoke(null, null);
         }
     }
 }
