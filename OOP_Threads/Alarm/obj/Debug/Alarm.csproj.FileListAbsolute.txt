@@ -1,7 +1,0 @@
-C:\Users\Maximilian\source\repos\OOP_Threads\Alarm\bin\Debug\Alarm.exe.config
-C:\Users\Maximilian\source\repos\OOP_Threads\Alarm\bin\Debug\Alarm.exe
-C:\Users\Maximilian\source\repos\OOP_Threads\Alarm\bin\Debug\Alarm.pdb
-C:\Users\Maximilian\source\repos\OOP_Threads\Alarm\obj\Debug\Alarm.csprojAssemblyReference.cache
-C:\Users\Maximilian\source\repos\OOP_Threads\Alarm\obj\Debug\Alarm.csproj.CoreCompileInputs.cache
-C:\Users\Maximilian\source\repos\OOP_Threads\Alarm\obj\Debug\Alarm.exe
-C:\Users\Maximilian\source\repos\OOP_Threads\Alarm\obj\Debug\Alarm.pdb

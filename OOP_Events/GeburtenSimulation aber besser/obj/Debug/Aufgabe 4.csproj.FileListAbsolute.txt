@@ -1,7 +1,0 @@
-C:\Users\Thomas\source\repos\Events\Aufgabe 4\bin\Debug\Aufgabe 4.exe.config
-C:\Users\Thomas\source\repos\Events\Aufgabe 4\bin\Debug\Aufgabe 4.exe
-C:\Users\Thomas\source\repos\Events\Aufgabe 4\bin\Debug\Aufgabe 4.pdb
-C:\Users\Thomas\source\repos\Events\Aufgabe 4\obj\Debug\Aufgabe 4.csprojAssemblyReference.cache
-C:\Users\Thomas\source\repos\Events\Aufgabe 4\obj\Debug\Aufgabe 4.csproj.CoreCompileInputs.cache
-C:\Users\Thomas\source\repos\Events\Aufgabe 4\obj\Debug\Aufgabe 4.exe
-C:\Users\Thomas\source\repos\Events\Aufgabe 4\obj\Debug\Aufgabe 4.pdb

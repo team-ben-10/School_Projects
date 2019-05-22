@@ -1,7 +1,0 @@
-C:\Users\Maximilian\source\repos\OOP_Threads\OOP_Threads\bin\Debug\OOP_Threads.exe.config
-C:\Users\Maximilian\source\repos\OOP_Threads\OOP_Threads\bin\Debug\OOP_Threads.exe
-C:\Users\Maximilian\source\repos\OOP_Threads\OOP_Threads\bin\Debug\OOP_Threads.pdb
-C:\Users\Maximilian\source\repos\OOP_Threads\OOP_Threads\obj\Debug\OOP_Threads.csprojAssemblyReference.cache
-C:\Users\Maximilian\source\repos\OOP_Threads\OOP_Threads\obj\Debug\OOP_Threads.csproj.CoreCompileInputs.cache
-C:\Users\Maximilian\source\repos\OOP_Threads\OOP_Threads\obj\Debug\OOP_Threads.exe
-C:\Users\Maximilian\source\repos\OOP_Threads\OOP_Threads\obj\Debug\OOP_Threads.pdb

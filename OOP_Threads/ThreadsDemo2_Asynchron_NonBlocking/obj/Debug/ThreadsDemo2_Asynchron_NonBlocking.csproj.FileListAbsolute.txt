@@ -1,5 +1,0 @@
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\Programme_3Jhg\ThreadsDemo2_Asynchron_NonBlocking\bin\Debug\ThreadsDemo2_Asynchron_NonBlocking.exe.config
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\Programme_3Jhg\ThreadsDemo2_Asynchron_NonBlocking\bin\Debug\ThreadsDemo2_Asynchron_NonBlocking.exe
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\Programme_3Jhg\ThreadsDemo2_Asynchron_NonBlocking\bin\Debug\ThreadsDemo2_Asynchron_NonBlocking.pdb
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\Programme_3Jhg\ThreadsDemo2_Asynchron_NonBlocking\obj\Debug\ThreadsDemo2_Asynchron_NonBlocking.exe
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\Programme_3Jhg\ThreadsDemo2_Asynchron_NonBlocking\obj\Debug\ThreadsDemo2_Asynchron_NonBlocking.pdb

@@ -1,7 +1,0 @@
-C:\Users\Maximilian\Documents\OOP_Events\Erdeben_V2\bin\Debug\Erdeben.exe.config
-C:\Users\Maximilian\Documents\OOP_Events\Erdeben_V2\bin\Debug\Erdeben.exe
-C:\Users\Maximilian\Documents\OOP_Events\Erdeben_V2\bin\Debug\Erdeben.pdb
-C:\Users\Maximilian\Documents\OOP_Events\Erdeben_V2\obj\Debug\Erdeben_V2.csprojAssemblyReference.cache
-C:\Users\Maximilian\Documents\OOP_Events\Erdeben_V2\obj\Debug\Erdeben_V2.csproj.CoreCompileInputs.cache
-C:\Users\Maximilian\Documents\OOP_Events\Erdeben_V2\obj\Debug\Erdeben.exe
-C:\Users\Maximilian\Documents\OOP_Events\Erdeben_V2\obj\Debug\Erdeben.pdb

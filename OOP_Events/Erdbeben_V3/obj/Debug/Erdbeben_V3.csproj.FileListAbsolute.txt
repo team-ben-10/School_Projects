@@ -1,7 +1,0 @@
-C:\Users\Maximilian\Documents\GitHub\School_Projects\OOP_Events\Erdbeben_V3\bin\Debug\Erdbeben_V3.exe.config
-C:\Users\Maximilian\Documents\GitHub\School_Projects\OOP_Events\Erdbeben_V3\bin\Debug\Erdbeben_V3.exe
-C:\Users\Maximilian\Documents\GitHub\School_Projects\OOP_Events\Erdbeben_V3\bin\Debug\Erdbeben_V3.pdb
-C:\Users\Maximilian\Documents\GitHub\School_Projects\OOP_Events\Erdbeben_V3\obj\Debug\Erdbeben_V3.csprojAssemblyReference.cache
-C:\Users\Maximilian\Documents\GitHub\School_Projects\OOP_Events\Erdbeben_V3\obj\Debug\Erdbeben_V3.csproj.CoreCompileInputs.cache
-C:\Users\Maximilian\Documents\GitHub\School_Projects\OOP_Events\Erdbeben_V3\obj\Debug\Erdbeben_V3.exe
-C:\Users\Maximilian\Documents\GitHub\School_Projects\OOP_Events\Erdbeben_V3\obj\Debug\Erdbeben_V3.pdb
